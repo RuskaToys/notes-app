@@ -1,0 +1,17 @@
+{
+    "name": "notes-app-javascript-localstorage-main",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "devstart": "nodemon index.js"
+    },
+    "author": "ruska",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "express": "^4.17.3",
+        "nodemon": "^2.0.15"
+    },
+    "devDependencies": {}
+}
